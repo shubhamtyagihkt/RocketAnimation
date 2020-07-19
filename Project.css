@@ -1,5 +1,5 @@
 body{
-    background: url('/images/galaxy.png') rgb(22,26,70) repeat-x;
+    background: url('./images/galaxy.png') rgb(22,26,70) repeat-x;
 }
 
 .r1{
